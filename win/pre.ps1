@@ -42,7 +42,7 @@ function install_choco() {
 
 function install_utilities() {
   choco install vscode -y
-  choco install firefix -y
+  choco install firefox -y
   choco install grep -y
   choco install git -y
 }
